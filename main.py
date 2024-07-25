@@ -1,3 +1,9 @@
+"""
+    Date created: 25/07/2024
+    Last modified: 25/07/2024
+    Python Version: 3.12
+"""
+
 import os
 from maintenance import top_up, display_resources
 from dispense import espresso, latte, cappuccino, check_resources, check_coins
